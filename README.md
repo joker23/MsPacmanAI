@@ -1,10 +1,10 @@
-
 Running
 ===
 Compiling and running the program can be done in these ways:
 For windows and iOS:
 	javac -cp ./game/Exec.java #compiling
 	java -cp ./game/Exec #running
+
 For linux:
 	make #compiling
 	make run #running
